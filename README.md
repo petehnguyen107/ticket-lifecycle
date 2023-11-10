@@ -85,10 +85,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><img src="https://i.imgur.com/0gdLNqc.png" height="80%" width="80%" alt="8"/></li>
     </ul>
-    <li>The Ticket Thread is updated when we make the changes to ticket</li>
-    <ul>
-      <li><img src="https://i.imgur.com/JxNJJM4.png" height="80%" width="80%" alt="9"/></li>
-    </ul>
     <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as <b>Open</b> since we need to work it out)</li>
     <ul>
       <li><img src="https://i.imgur.com/tZu7Wbk.png" height="80%" width="80%" alt="10"/></li>
